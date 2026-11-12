@@ -34,3 +34,9 @@ Contribute tests, security, documentation, accessibility and scalable architectu
 See [Architecture and production blockers](docs/ARCHITECTURE.md) and [Commercialization](docs/COMMERCIAL.md).
 
 **MIT License (source code).** Hosted SaaS, trademarks and enterprise features require separate product decisions.
+
+## v0.2 — Security and operations
+
+Role-based access, SHA-256 hashed key records, paginated audit and agent inventory.
+
+[Checklist de produção](docs/PRODUCTION_READINESS.md). **Chris Cruz — @h4ckd4d.**
